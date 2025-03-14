@@ -1,7 +1,7 @@
 ## ATIVIDADES DESENVOLVIMENTO WEB 
 
 - [ATIVIDADE 1 ](https://esterzinha07.github.io/atividade.01/)
-- [ATIVIDADE 2 ]()
+- [ATIVIDADE 2 ](https://esterzinha07.github.io/atividade.02/)
 - [ATIVIDADE 3 ]()
 - [ATIVIDADE 4 ]()
 - [ATIVIDADE 5 ]()
